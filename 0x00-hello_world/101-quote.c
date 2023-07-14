@@ -3,7 +3,11 @@
 /**
  * main - printing without printf and puts
  *
+<<<<<<< HEAD
  *Return: always (1)
+=======
+ * Return: always (1)
+>>>>>>> a37b31c3fe1c204b64d5a730f8179847db4c6fb8
  *
  */
 int main(void)
